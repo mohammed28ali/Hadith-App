@@ -12,13 +12,13 @@ hadith App app is open-source  app for Android & ios. It is built with Dart on t
 <p align="center"><b>Hadith - حديـــــــــث</b></p>
 
 
-## About🤠
+## About
 
 الأربعون في مباني الإسلام وقواعد الأحكام المعروفة بـ الأربعون النووية، متن اشتمل على اثنين وأربعين حديثاّ جمعها يحيى بن شرف النووي المتوفى 676 هـ.
 
 
 
-## Benfit👻
+## Benfit
 - [🖥] # Screens 🖥
 - [🆗] Splash Screen
 - [🆗] Home Screen
@@ -43,7 +43,7 @@ hadith App app is open-source  app for Android & ios. It is built with Dart on t
 - [x] Deal With Map Function
 
 ------------------------------
-- [🖥] # Play  🖥
+- [🖥] # Play  
 - [x] Pause
 - [x] Stop
 --------------------------
