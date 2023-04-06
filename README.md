@@ -56,15 +56,13 @@ hadith App app is open-source  app for Android & ios. It is built with Dart on t
 
 |3|4|
 |------|-------|
-|<img src="snapshot/three.png" width="400">|<img src="snapshot/seven.png" width="400">|
+|<img src="snapshot/six.png" width="400">|<img src="snapshot/seven.png" width="400">|
 
 |5|6|
 |------|-------|
 |<img src="snapshot/four.png" width="400">|<img src="snapshot/five.png" width="400">|
 
-|7
-|------
-|<img src="snapshot/six.png" width="400">
+
 
 
 
