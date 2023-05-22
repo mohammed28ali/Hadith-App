@@ -1,7 +1,6 @@
-#حديــــــــث🏻
 hadith App with AudioPlayer [MVC pattern] 👨🏻‍💻
 
-hadith App app is open-source  app for Android & ios. It is built with Dart on top of Google's Flutter Framework.
+hadith App app is open-source  app for Android & ios. It is built with Dart on Google's Flutter Framework.
 
 
 ![flutter](https://img.shields.io/badge/Flutter-Framework-green?logo=flutter)
@@ -9,11 +8,6 @@ hadith App app is open-source  app for Android & ios. It is built with Dart on t
 
 
 <p align="center"><b>Hadith - حديـــــــــث</b></p>
-
-
-## About
-
-الأربعون في مباني الإسلام وقواعد الأحكام المعروفة بـ الأربعون النووية، متن اشتمل على اثنين وأربعين حديثاّ جمعها يحيى بن شرف النووي المتوفى 676 هـ.
 
 
 
