@@ -5,6 +5,7 @@ hadith App app is open-source  app for Android & ios. It is built with Dart on G
 
 ![flutter](https://img.shields.io/badge/Flutter-Framework-green?logo=flutter)
 ![Dart](https://img.shields.io/badge/Dart-Language-blue?logo=dart)
+![Firebase](https://img.shields.io/badge/Dart-Language-blue?logo=firebase)
 
 
 <p align="center"><b>Hadith - حديـــــــــث</b></p>
